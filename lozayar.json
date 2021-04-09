@@ -1,14 +1,13 @@
 {
     "DEFAULTS": {
-        "AUTHORS": ["YETKILI ID"],
-        "ACTIVITY_TEXT": "ACIKLAMA",
-        "GUILD_ID": "SUNUCU ID",
-        "VOICE_CHANNEL": "KANAL ID",
-        "MIN_STAFF_ROLE": "YETKILI ROL ID"
+        "AUTHORS": ["829951878602948649"],
+        "ACTIVITY_TEXT": "Sunucumuza hoş geldiniz!",
+        "GUILD_ID": "829951878182862879",
+        "VOICE_CHANNEL": "829951878640959524",
+        "MIN_STAFF_ROLE": "829951878602948649"
     },
     "FILES": {
         "WELCOME": "ses/hosgeldin.mp3",
         "STAFF": "ses/yetkili.mp3"
-    },
-    "TOKEN": "TOKEN"
-} 
+}
+    }
